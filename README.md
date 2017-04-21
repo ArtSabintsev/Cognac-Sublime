@@ -27,7 +27,6 @@ Color | Palette | Hex | Usage
 
 ### Specific Rules
 - Keywords, which are pink, should always be bolded.
-- Documentation Keywords, which are light-gray, should always be bolded.
 
 ## Installation Instructions
 - Go to **Preferences > Browse Packages...**
