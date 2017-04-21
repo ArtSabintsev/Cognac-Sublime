@@ -32,7 +32,7 @@ Color | Palette | Hex | Usage
 ## Installation Instructions
 - Go to **Preferences > Browse Packages...**
 - In the instance of Finder that appears, create a new folder named **Cognac**.
-- Drop the **Cognac.tmTheme** file in the Cognac folder.
+- Drop the **Cognac.tmTheme** file into the Cognac folder.
 - Go to **Preferences > Color Scheme > Cognac** to activate the theme.
 
 ## Credits
